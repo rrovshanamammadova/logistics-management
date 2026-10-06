@@ -1,0 +1,184 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "plate": "99-AA-101",
+      "model": "Mercedes Actros",
+      "driver": "Ulvi Jabiev",
+      "phone": "+994 50 347 82 19",
+      "speed": "95 km/saat",
+      "direction": "NE (48°)",
+      "stopTime": "20 dəq dayanıb",
+      "updated": "10:30",
+      "status": "Hərəkətdə",
+      "coordinate": "40.4093, 49.8671",
+      "statusColor": "green",
+      "mapOffset": {
+        "top": "25%",
+        "left": "48%"
+      }
+    },
+    {
+      "id": 2,
+      "plate": "77-BB-222",
+      "model": "Mercedes Actros",
+      "driver": "Ulvi Jabiev",
+      "phone": "+994 50 347 82 19",
+      "speed": "0 km/saat",
+      "direction": "NE (48°)",
+      "stopTime": "20 dəq dayanıb",
+      "updated": "10:30",
+      "status": "Dayanıb",
+      "coordinate": "40.4093, 49.8671",
+      "statusColor": "blue",
+      "mapOffset": {
+        "top": "34%",
+        "left": "57%"
+      }
+    }
+  ],
+
+  "customers": [
+    {
+      "id": 1,
+      "company": "İTbrains MMC",
+      "contact": "Kanan Jabiev",
+      "phone": "+994 50 347 82 19",
+      "email": "it.ismayilov@gmail.com",
+      "address": "Nizami küçəsi 45, Yasamal r.",
+      "voen": "-"
+    },
+    {
+      "id": 2,
+      "company": "Bravo MMC",
+      "contact": "Ulvi Jabiev",
+      "phone": "+994 50 347 82 19",
+      "email": "orxan.ismayilov@gmail.com",
+      "address": "Nizami küçəsi 45, Yasamal r.",
+      "voen": "-"
+    },
+    {
+      "id": 3,
+      "company": "İTbrains MMC",
+      "contact": "Ulvi Jabiev",
+      "phone": "+994 50 347 82 19",
+      "email": "orxan.ismayilov@gmail.com",
+      "address": "Nizami küçəsi 45, Yasamal r.",
+      "voen": "-"
+    },
+    {
+      "id": 4,
+      "company": "İTbrains MMC",
+      "contact": "Ulvi Jabiev",
+      "phone": "+994 50 347 82 19",
+      "email": "orxan.ismayilov@gmail.com",
+      "address": "Nizami küçəsi 45, Yasamal r.",
+      "voen": "-"
+    },
+    {
+      "id": 5,
+      "company": "İTbrains MMC",
+      "contact": "Ulvi Jabiev",
+      "phone": "+994 50 347 82 19",
+      "email": "orxan.ismayilov@gmail.com",
+      "address": "Nizami küçəsi 45, Yasamal r.",
+      "voen": "-"
+    },
+    {
+      "id": 6,
+      "company": "İTbrains MMC",
+      "contact": "Ulvi Jabiev",
+      "phone": "+994 50 347 82 19",
+      "email": "orxan.ismayilov@gmail.com",
+      "address": "Nizami küçəsi 45, Yasamal r.",
+      "voen": "-"
+    },
+    {
+      "id": 7,
+      "company": "İTbrains MMC",
+      "contact": "Ulvi Jabiev",
+      "phone": "+994 50 347 82 19",
+      "email": "orxan.ismayilov@gmail.com",
+      "address": "Nizami küçəsi 45, Yasamal r.",
+      "voen": "-"
+    },
+    {
+      "id": 8,
+      "company": "İTbrains MMC",
+      "contact": "Ulvi Jabiev",
+      "phone": "+994 50 347 82 19",
+      "email": "orxan.ismayilov@gmail.com",
+      "address": "Nizami küçəsi 45, Yasamal r.",
+      "voen": "-"
+    },
+    {
+      "id": 9,
+      "company": "İTbrains MMC",
+      "contact": "Ulvi Jabiev",
+      "phone": "+994 50 347 82 19",
+      "email": "orxan.ismayilov@gmail.com",
+      "address": "Nizami küçəsi 45, Yasamal r.",
+      "voen": "-"
+    },
+    {
+      "id": 10,
+      "company": "İTbrains MMC",
+      "contact": "Ulvi Jabiev",
+      "phone": "+994 50 347 82 19",
+      "email": "orxan.ismayilov@gmail.com",
+      "address": "Nizami küçəsi 45, Yasamal r.",
+      "voen": "-"
+    }
+  ],
+  
+  "drivers": [
+    {
+      "id": 1,
+      "name": "Elvin Məmmədov",
+      "license": "AA-123456",
+      "expireDate": "12.08.2027",
+      "phone": "+994 50 123 45 67",
+      "status": "Yoldadır"
+    },
+    {
+      "id": 2,
+      "name": "Orxan Hüseynov",
+      "license": "BB-234567",
+      "expireDate": "25.11.2027",
+      "phone": "+994 55 234 56 78",
+      "status": "Boşda"
+    },
+    {
+      "id": 3,
+      "name": "Tural Abbasov",
+      "license": "CC-345678",
+      "expireDate": "05.04.2028",
+      "phone": "+994 70 345 67 89",
+      "status": "Yoldadır"
+    },
+    {
+      "id": 4,
+      "name": "Rauf İsmayılov",
+      "license": "DD-456789",
+      "expireDate": "18.09.2026",
+      "phone": "+994 77 456 78 90",
+      "status": "Qeyri aktiv"
+    },
+    {
+      "id": 5,
+      "name": "Murad Əliyev",
+      "license": "EE-567890",
+      "expireDate": "20.01.2028",
+      "phone": "+994 50 567 89 01",
+      "status": "Boşda"
+    },
+    {
+      "id": 6,
+      "name": "Kamran Həsənov",
+      "license": "FF-678901",
+      "expireDate": "14.06.2027",
+      "phone": "+994 55 678 90 12",
+      "status": "Yoldadır"
+    }
+  ]
+}
